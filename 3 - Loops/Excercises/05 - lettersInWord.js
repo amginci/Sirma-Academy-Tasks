@@ -5,3 +5,4 @@ function solve(text) {
     }
 
 solve('hello')
+solve('Bulgaria')

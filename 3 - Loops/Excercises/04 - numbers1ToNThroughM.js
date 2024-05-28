@@ -1,5 +1,5 @@
 function printNumbers(n, m) {
-    for (let i = 0; i >= n; i + m) {
+    for (let i = 1; i < n; i += m) {
         console.log(i); 
     }
 }

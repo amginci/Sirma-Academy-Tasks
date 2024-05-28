@@ -1,9 +1,9 @@
-// Breaking an Infinite Loop
+// Breaking an infinite Loop
 
 while (true) {
     console.log('Infinite loop');
     if (Math.random() < 0.05) {
-        break;
+        break; // stopping the loop
     }
 }
 
